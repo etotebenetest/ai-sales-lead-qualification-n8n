@@ -2,6 +2,10 @@
 
 Production-style n8n automation for inbound sales email qualification, CRM updates, AI-assisted follow-up, manager notifications, and error handling.
 
+## Workflow Architecture
+
+![AI Sales Lead Qualification & Follow-up workflow](workflow-architecture.png)
+
 ## Business problem
 
 The workflow automates the first layer of inbound sales processing: reading email, checking CRM, qualifying the lead, updating records, recommending a next action, and sending appropriate follow-up.
