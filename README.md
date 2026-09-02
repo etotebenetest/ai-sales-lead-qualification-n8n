@@ -4,7 +4,7 @@ Production-style n8n automation for inbound sales email qualification, CRM updat
 
 ## Workflow Architecture
 
-![AI Sales Lead Qualification & Follow-up workflow](workflow-architecture.png)
+![AI Sales Lead Qualification & Follow-up workflow](workflow-architecture1.png)
 
 ## Business problem
 
